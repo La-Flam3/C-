@@ -1,5 +1,6 @@
 I principali tipi primitivi sono:
 
+
 int → rappresenta un numero intero, positivo o negativo (es. int x = 5;, occupa circa 4 byte).
 
 short → intero più piccolo che occupa meno memoria (es. short s = 10;, circa 2 byte).
